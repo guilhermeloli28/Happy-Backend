@@ -2,6 +2,7 @@ Sobre o Projeto
 Esta aplicação feita especialmente para o dia das crianças, com o objetivo de conectar pessoas que querem visitar orfanatos e levar alegria para as crianças.
 
 🛠 Tecnologias
+
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - TypeScript
